@@ -11,4 +11,4 @@
     -	Since you can press ‘w’ at any time to display the “YOU WIN!” screen, the game goes 
       off of an honor system.
     -	If a column is filled with tokens and a player presses that number column, it places 
-      a token off the screen for that player and essentially skipping that players turn.
+      a token off the screen for that player, essentially skipping that players turn.
